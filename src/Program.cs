@@ -6,7 +6,6 @@ namespace mirror1
     {
         static void Main(string[] args)
         {
-            // add dummy comment;
             Console.WriteLine("Hello World!");
         }
     }
