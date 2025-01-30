@@ -9,6 +9,13 @@ namespace mirror1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("This is a change");
+            Console.WriteLine("One more change");
+            Foo();
+        }
+
+        static void Foo()
+        {
+
         }
     }
 }
